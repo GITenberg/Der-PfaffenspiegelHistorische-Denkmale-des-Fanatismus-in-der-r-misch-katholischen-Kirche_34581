@@ -1,0 +1,33 @@
+_repo: Der-PfaffenspiegelHistorische-Denkmale-des-Fanatismus-in-der-r-misch-katholischen-Kirche_34581
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corvin, Otto von
+    aliases:
+    - Von Corvin, Otto
+    - Corvin-Wiersbitzki, Otto Julius Bernhard von
+    birthdate: 1812
+    deathdate: 1886
+    gutenberg_agent_id: '37098'
+    url: http://www.gutenberg.org/2009/agents/37098
+    wikipedia: http://en.wikipedia.org/wiki/Otto_von_Corvin
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34581'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Controversial literature'
+title: 'Der Pfaffenspiegel
+
+  Historische Denkmale des Fanatismus in der römisch-katholischen Kirche'
+url: http://www.gutenberg.org/ebooks/34581
