@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37098
     wikipedia: http://en.wikipedia.org/wiki/Otto_von_Corvin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34581#Der-PfaffenspiegelHistorische-Denkmale-des-Fanatismus-in-der-r-misch-katholischen-Kirche
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2010-12-05'
 gutenberg_type: Text
